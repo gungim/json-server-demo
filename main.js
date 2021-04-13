@@ -45,6 +45,8 @@ router.render = (req, res) => {
 };
 
 server.use("/api", router);
-server.listen(4000, () => {
+
+const PORT = process.env.PORT || 4000;
+server.listen(PORT, () => {
   console.log("server is running");
 });
