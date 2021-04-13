@@ -1,0 +1,259 @@
+{
+  "categories": [
+    {
+      "id": "9330e34d-6d72-411f-a5b6-54278d16bf62",
+      "name": "Tools",
+      "createdAt": 1618309842515,
+      "updatedAt": 1618309842515
+    },
+    {
+      "id": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd",
+      "name": "Books",
+      "createdAt": 1618309842515,
+      "updatedAt": 1618309842515
+    },
+    {
+      "id": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3",
+      "name": "Jewelery",
+      "createdAt": 1618309842515,
+      "updatedAt": 1618309842515
+    },
+    {
+      "id": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce",
+      "name": "Toys",
+      "createdAt": 1618309842515,
+      "updatedAt": 1618309842515
+    },
+    {
+      "name": "Laptop",
+      "id": "25598e4f-e952-4715-94d8-0001f67ec3c8",
+      "createdAt": 1618326363948,
+      "updatedAt": 1618326363948
+    }
+  ],
+  "products": [
+    {
+      "id": "48e45fdb-82b5-4175-bf15-9a0bce9b0def",
+      "name": "Generic Steel Keyboard",
+      "color": "indigo",
+      "price": "656.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618309842516,
+      "updatedAt": 1618309842516,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "9330e34d-6d72-411f-a5b6-54278d16bf62"
+    },
+    {
+      "id": "77d70a86-7c68-4c19-994e-a31ed87da25a",
+      "name": "Intelligent Plastic Towels",
+      "color": "fuchsia",
+      "price": "261.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618309842516,
+      "updatedAt": 1618309842516,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "9330e34d-6d72-411f-a5b6-54278d16bf62"
+    },
+    {
+      "id": "04056a32-5205-4f9b-95dc-ff9180a735cf",
+      "name": "Awesome Soft Mouse",
+      "color": "lime",
+      "price": "923.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1618309842516,
+      "updatedAt": 1618309842516,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "9330e34d-6d72-411f-a5b6-54278d16bf62"
+    },
+    {
+      "id": "b62b2672-7bf4-41a9-bff0-2a8a760ca296",
+      "name": "Awesome Plastic Salad",
+      "color": "tan",
+      "price": "980.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1618309842516,
+      "updatedAt": 1618309842516,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "9330e34d-6d72-411f-a5b6-54278d16bf62"
+    },
+    {
+      "id": "2f846be4-c60c-40cd-857e-0f96c9668072",
+      "name": "Ergonomic Metal Fish",
+      "color": "violet",
+      "price": "215.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618309842516,
+      "updatedAt": 1618309842516,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "9330e34d-6d72-411f-a5b6-54278d16bf62"
+    },
+    {
+      "id": "91233ebf-43d4-4582-904c-401275b954da",
+      "name": "Handcrafted Metal Pants",
+      "color": "silver",
+      "price": "36.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd"
+    },
+    {
+      "id": "3f264e86-054e-408f-a02a-335d1777246a",
+      "name": "Practical Granite Keyboard",
+      "color": "silver",
+      "price": "11.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd"
+    },
+    {
+      "id": "aff84aec-d070-4a12-aa7d-4d7e3308ef2f",
+      "name": "Fantastic Wooden Salad",
+      "color": "silver",
+      "price": "168.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd"
+    },
+    {
+      "id": "f7235000-2f04-42d5-8611-f3eec5cefe1a",
+      "name": "Tasty Rubber Gloves",
+      "color": "yellow",
+      "price": "773.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd"
+    },
+    {
+      "id": "2a488680-ea4d-4d53-937f-46500307d963",
+      "name": "Unbranded Rubber Bike",
+      "color": "cyan",
+      "price": "385.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3b0c4d4c-1b50-434b-afdd-de66c3e619fd"
+    },
+    {
+      "id": "06143d50-d7d0-449d-8432-276fe361aaf1",
+      "name": "Practical Concrete Car",
+      "color": "pink",
+      "price": "177.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3"
+    },
+    {
+      "id": "3fb5cb73-c697-4131-858b-dcc5be6838bb",
+      "name": "Handmade Cotton Chips",
+      "color": "red",
+      "price": "469.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618309842517,
+      "updatedAt": 1618309842517,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3"
+    },
+    {
+      "id": "7b56230d-a3ff-4b29-9a8d-e4017ceb8b50",
+      "name": "Sleek Metal Fish",
+      "color": "lime",
+      "price": "533.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3"
+    },
+    {
+      "id": "53ccb4f6-c2d4-4d06-bf3b-26a40a1930f1",
+      "name": "Sleek Wooden Salad",
+      "color": "azure",
+      "price": "705.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3"
+    },
+    {
+      "id": "a384004f-a3fb-421d-9f16-02c19a931fbe",
+      "name": "Handcrafted Cotton Pants",
+      "color": "silver",
+      "price": "320.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "8c98f789-742c-4cf9-a7d9-c042e9ff67d3"
+    },
+    {
+      "id": "00e68c2b-49af-4348-b504-8a2bf4696095",
+      "name": "Refined Steel Chicken",
+      "color": "grey",
+      "price": "910.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce"
+    },
+    {
+      "id": "893f657d-9994-4739-ac02-f6d33929f8f4",
+      "name": "Handmade Fresh Shoes",
+      "color": "orchid",
+      "price": "532.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce"
+    },
+    {
+      "id": "54e809b0-aa5b-4c87-bbfd-582c81b98ff8",
+      "name": "Rustic Fresh Shirt",
+      "color": "lavender",
+      "price": "520.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618309842518,
+      "updatedAt": 1618309842518,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce"
+    },
+    {
+      "id": "46b1a286-7bba-419f-a1a2-80fe5888db96",
+      "name": "Fantastic Fresh Salad",
+      "color": "salmon",
+      "price": "389.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618309842519,
+      "updatedAt": 1618309842519,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce"
+    },
+    {
+      "id": "18d9343b-a7dc-4c0f-9ccf-a37e6b7557bb",
+      "name": "Sleek Rubber Salad",
+      "color": "tan",
+      "price": "24.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618309842519,
+      "updatedAt": 1618309842519,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "61d3964a-4baf-4fc4-9bbb-ecbad18de5ce"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
